@@ -17,6 +17,8 @@ The functionality goes as follows:
       - Inside you personal page you can Deposit or Withdraw you specified amount of Money.
       - After you are done you can click logout and be redirected ack to the home page.
 
+
 -> Because of how i configured the application it should run streight out of the box.
+
 For the testing part ( i just tested all the scenarios i thought about and created some corner-cases
 because i have not written tests that much ,but i can learn that too)
